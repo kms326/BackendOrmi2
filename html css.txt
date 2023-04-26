@@ -1,0 +1,30 @@
+https://paullabworkspace.notion.site/HTML-CSS-e59ccad043e84513860c9bf42a7cd49f
+
+html/css
+
+부모 형제 자식 자손 중요!
+
+
+
+
+head
+
+title 제목
+모양=파비콘
+내가보는 화면=viewport
+
+
+
+ol은 li랑 짝꿍
+
+순서중요=ol
+순서중요x=ul(총알모양 불렛) u불
+
+<a> <button> 차이
+
+<a>는
+컨트롤 왼쪽클릭으로 새탭열기 가능
+
+a는 이동 목적
+
+button은 다양한 형태의 동작수행 가능
