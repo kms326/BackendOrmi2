@@ -1,0 +1,14 @@
+Bootstrap은 한땀한땀 개발하려고 사용하는것 X
+Taiolwind는 한땀한땀 개발하려고 사용하는것 O
+
+1.디자이너가 디자인한 것을 구현한다?
+- 순수한 html, css나 Tailwind와 같은 라이브러리
+- bootstrap X
+
+
+2. 빠르게 몇일만에 홈페이지가 나가야한다?
+- Bootstrap => 템플릿 구매
+
+3. 대량상산에 어울리는 것?
+- Bootstrap
+
